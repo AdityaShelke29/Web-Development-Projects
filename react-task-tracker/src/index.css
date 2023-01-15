@@ -1,0 +1,5 @@
+/* The code here is only to destroy margins everywhere they appear. */
+
+* {
+    margin: 0px;
+}

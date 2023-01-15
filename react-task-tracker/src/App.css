@@ -1,0 +1,19 @@
+/* All CSS for the overall application. */
+
+.App {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+
+.App-Left {
+  width: 30vw;
+}
+
+.App-Right {
+  width: 30vw;
+}
+
+.App-Center {
+  width: 40vw;
+}
